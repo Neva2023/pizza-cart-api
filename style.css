@@ -1,0 +1,84 @@
+body {
+    background-color: azure;
+    background-image:url(https://www.pngwing.com/en/free-png-zmbde);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.small_pizza{
+    background-color: #FCF6BD;
+    border: 1px solid #560bad;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.medium_pizza{
+    background-color: #A9DEF9;
+    border: 1px solid #560bad;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    margin-bottom: 0.5em
+}
+
+.large_pizza{
+    background-color: #D0F4DE;
+    border: 1px solid #560bad;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    margin-bottom: 0.5em
+}
+
+.contact_us{
+    background-color: #FF99C8;
+    border: 1px solid #560bad;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    margin-bottom: 0.5em
+}
+
+
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    background-color: floralwhite;
+    font-family: sans-serif;
+}
+
+td {
+    text-align: center;
+}
+
+.catlogue{
+    background-color: plum;
+}
+
+.cart {
+    text-align: center;
+}
+@media (min-width:960){
+    .catlogue {
+        display: flex;
+    }
+}
+
+
+.pizza {
+    background-color: azure;
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 15em;
+    border-radius: 0.25em;
+    display: inline-block;
+    padding: 0.5em;
+}
+
+.btn {
+    background-color:CCDB6B ;
+}
